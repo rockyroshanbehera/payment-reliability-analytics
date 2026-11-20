@@ -1,0 +1,7 @@
+# Normalise text to LF in the repository so the project behaves identically on
+# Windows, macOS and Linux, and never let Git rewrite the binary deliverables.
+* text=auto eol=lf
+
+*.png binary
+*.xlsx binary
+*.sqlite binary

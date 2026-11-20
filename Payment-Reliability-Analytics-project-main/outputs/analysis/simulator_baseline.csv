@@ -1,0 +1,6 @@
+sort_order,pool,transactions,value_inr,avg_value_inr
+1,Total transactions,180000,123912511.84,688.4028435555556
+2,Successful transactions,172019,118373411.42,688.1414926258146
+3,Bank Timeout failures,2195,1448136.14,659.7431161731207
+4,Network Error failures,1771,1287748.04,727.1304573687182
+5,"Retried, still failed (other causes)",978,651520.8099999999,666.1766973415132

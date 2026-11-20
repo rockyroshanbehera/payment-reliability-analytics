@@ -1,0 +1,2 @@
+transactions,successful_transactions,failed_transactions,payment_value_inr,successful_value_inr,failed_value_inr,success_rate,failure_rate,value_success_rate,avg_processing_time_seconds,retry_rate,retry_recovery_rate
+180000,172019,7981,123912511.84,118373411.42,5539100.42,0.9556611111111111,0.044338888888888886,0.9552982960497785,1.7147995777777778,0.017477777777777776,0.4415130324221233
